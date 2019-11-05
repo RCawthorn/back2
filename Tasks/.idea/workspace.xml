@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45de5f65-3dab-4f62-b922-e8b679ac7fa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Duplicate/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Duplicate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Duplicate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Duplicate/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Duplicate/Duplicate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Duplicate/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maths/src/com/company/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maths/src/com/company/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maths/src/com/company/Maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maths/src/com/company/Maths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maths/src/com/company/MathsAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maths/src/com/company/MathsAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maths/src/com/company/ProperMaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maths/src/com/company/ProperMaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maths/src/com/company/SillyMaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maths/src/com/company/SillyMaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,6 +72,10 @@
       <updated>1569861988988</updated>
       <workItem from="1569861994033" duration="12785000" />
       <workItem from="1570005936845" duration="699000" />
+      <workItem from="1570208055079" duration="1257000" />
+      <workItem from="1570442743873" duration="943000" />
+      <workItem from="1570639430555" duration="84000" />
+      <workItem from="1571148145123" duration="434000" />
     </task>
     <servers />
   </component>
@@ -71,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
